@@ -11,6 +11,7 @@ I'm Aarav Raja, a CS Engineer. I have over 6 years of experience coding in Pytho
 - GitHub
 - HTML
 - CSS
+- Tailwind CSS
 
 ## Projects
 
@@ -25,3 +26,6 @@ Python-IDE: (https://github.com/Argatrus/Python-IDE)
 A website created for my school's culturals
 
 Spectra-Website: (https://argatrus.github.io/Spectra_Website/)
+
+## Author
+Aarav Raja
