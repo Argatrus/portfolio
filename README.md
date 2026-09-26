@@ -28,4 +28,4 @@ A website created for my school's culturals
 Spectra-Website: (https://argatrus.github.io/Spectra_Website/)
 
 ## Author
-Aarav Raja
+Aarav "Argatrus" Raja
